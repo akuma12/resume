@@ -1,0 +1,88 @@
+div#leftblock {
+	float: left;
+	text-align: left;
+	overflow: hidden;
+	zoom: 1;
+	width: 66%;
+}
+div#rightblock {
+	float: right;
+	text-align: right;
+	overflow: hidden;
+	zoom: 1;
+	width: 30%;
+}
+div#name {
+	font-family:'Tahoma',sans-serif;
+	font-weight: bold; 
+	font-size:3em; 
+}
+div#experience {
+	font-family:'Garamond',serif;
+	font-size: 1.08em;
+	margin-top: 20px;
+	text-align: justify;
+        line-height: 1.1;
+}
+div#contact_info {
+	font-family:'Lucida Sans',sans-serif;
+	margin-top: 10px;
+}
+div#skills {
+	margin-top: 30px;
+	font-family: 'Lucida Sans', Arial, sans-serif; 
+	font-size: 1.2em;
+	color:Gray;
+}
+div#skills ul {
+	list-style-type: none;
+}
+div#skills li {
+    font-size: 1em;
+}
+div#skills h3 {
+    font-weight: bold;
+    padding: 0;
+    margin-bottom: 5px;
+}
+.tabbed {
+margin-left: 20px;
+text-decoration: none;
+}
+.header {
+	font-weight: bold;	
+}
+h1 {
+	font-family:'Tahoma',Arial, sans-serif;
+	font-weight: normal;
+}
+h2 {
+    margin-left: 20px;
+    font-weight: normal;
+}
+ul {
+	list-style-type:none; 
+	padding: 0; 
+	margin: 0;
+}
+.div_textblock{
+
+	margin-top: 0;
+	margin-left: 3em;
+}
+ul.jobdescription li {
+	margin: 0.4em 0;
+}
+.date {
+	font-family:'Tahoma',sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: .4em 0 .4em 15px;
+}
+a {
+color: #000000;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
