@@ -1,4 +1,26 @@
+.skills {
+	border: 1px solid #e3e3e3;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	margin-bottom: 15px;
+	padding-left: 10px;
+}
+
 .skills ul {
 	list-style-type: none;
 	margin-left: 0px;
+	margin-top: 0px;
+}
+
+.skills h4 {
+	margin-bottom: 0px;
+}
+
+.titlespan {
+	margin-left: 0px !important;
+}
+
+#contact {
+	margin-bottom: 50px;
 }
